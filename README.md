@@ -3,5 +3,4 @@ Make your textview float like News Headline
 
 <img src="video/screen.gif" width="300" height="540" />
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
-
+[![Alt text](video/screen.gif)](https://www.youtube.com/watch?v=-qEAbW73_t4)
