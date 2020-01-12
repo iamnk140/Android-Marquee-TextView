@@ -1,5 +1,7 @@
 # Android-Marquee-TextView
 Make your textview float like News Headline
 
-<img src="video/screen.gif" width="400" height="720" />
+<img src="video/screen.gif" width="300" height="600" />
+
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
