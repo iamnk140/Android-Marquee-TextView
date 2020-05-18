@@ -1,5 +1,21 @@
 # Android-Marquee-TextView
 Make your textview float like News Headline
 
-<img src="video/screen.gif" width="300" height="540" />
+## Usage
+
+``
+<TextView
+
+        android:id="@+id/textMarquee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:singleLine="true"
+        android:textColor="#3F51B5"
+        android:text="Your headline text here" />
+``
 
