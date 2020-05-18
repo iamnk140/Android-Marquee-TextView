@@ -5,7 +5,7 @@ Make your textview float like News Headline
 
 ## xml code
 
-```
+```xml
 <TextView
         android:id="@+id/textMarquee"
         android:layout_width="match_parent"
@@ -22,9 +22,9 @@ Make your textview float like News Headline
 
 ## java code
 
-```
+```java
 
 TextView textMarquee = findViewById(R.id.textMarquee);
-        textMarquee.setSelected(true);
+         textMarquee.setSelected(true);
 
 ```
